@@ -1,3 +1,5 @@
+This is a part of the specialization on Coursera - Practical Data Science on the AWS Cloud offered by deeplearning.ai.
+
 # Details of the projects:
 
 # Analyze Datasets and Train ML Models using AutoML
