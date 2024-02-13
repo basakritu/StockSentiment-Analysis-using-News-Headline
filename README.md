@@ -16,6 +16,9 @@ This is a part of the specialization on Coursera - Practical Data Science on the
 5. Write SQL queries to answer specific questions on your dataset and run your queries with Amazon Athena
 6. Return the query results in a pandas data frame
 7. Produce and select different plots and visualizations that address your questions
+8. Configure the Autopilot job
+9. Model training and tuning and deploy and test the best candidate model
+10. Train the model with Amazon SageMaker BlazingText and deploy the model
 
 ## 
 ##
